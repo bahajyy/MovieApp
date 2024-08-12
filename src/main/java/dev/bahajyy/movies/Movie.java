@@ -36,4 +36,7 @@ public class Movie {
         this.backdrops = backdrops;
         this.genres = genres;
     }
+
+    public <T> Movie(ObjectId objectId, String tt1234567, String sampleMovie, String date, String trailerLink, String poster, List<T> list, List<T> list1) {
+    }
 }
