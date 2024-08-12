@@ -11,6 +11,7 @@ Features:
 -Query movies and reviews by IMDb ID
 
 Tech Stack:
+
 Java 17: The primary programming language for the application.
 
 Spring Boot: A framework used to develop Java-based web applications quickly and easily.
